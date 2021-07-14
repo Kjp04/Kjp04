@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">🧑‍💻, I'm Khushi Patel</h1>
+<h1 align="center">Hello <img width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">💻, I'm Khushi Patel</h1>
 <h3 align="center"> I'm a Developer</h3>
 
 
